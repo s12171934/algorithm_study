@@ -6,4 +6,5 @@
 15분 
 
 ### How to Solve
+![How to Solve](http://www.junhyoung.info/wp-content/uploads/2024/07/11725.howToSolve.jpg)
 

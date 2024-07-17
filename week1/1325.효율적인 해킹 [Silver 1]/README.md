@@ -3,7 +3,7 @@
 [문제 링크](https://www.acmicpc.net/problem/22946)
 
 ### 소모 시간
-2시간
+4시간
 
 ### How to Solve
-![How to Solve](http://www.junhyoung.info/wp-content/uploads/2024/07/22946.howToSolve.jpg)
+![How to Solve](http://www.junhyoung.info/wp-content/uploads/2024/07/1325.howToSolve.jpg)
