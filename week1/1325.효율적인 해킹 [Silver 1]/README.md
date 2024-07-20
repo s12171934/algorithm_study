@@ -1,6 +1,6 @@
-# 22946. 원 이동하기 1 [Gold 2]
+# 1325. 효율적인 해킹 [Silver 1]
 ---
-[문제 링크](https://www.acmicpc.net/problem/22946)
+[문제 링크](https://www.acmicpc.net/problem/1325)
 
 ### 소모 시간
 4시간
